@@ -5,7 +5,7 @@ DAMS Repository is a digital object repository developed at the
 [UC San Diego Library](http://library.ucsd.edu/).
 [Hydra](http://projecthydra.org/) frontends, such as
 [DAMS PAS](http://github.com/ucsdlib/damspas)
-are supported by a partial implementaiton of the
+are supported by a [partial implementaiton](https://github.com/ucsdlib/dams/wiki/REST-API) of the
 [Fedora 3.x REST API](https://wiki.duraspace.org/display/FEDORA38/REST+API).
 
 [Setup Instructions](https://github.com/ucsdlib/damsrepo/wiki/Setup) are in the wiki.
